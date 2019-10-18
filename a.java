@@ -1,2 +1,2 @@
 git 1
-git 2 branch 1
+git 2 branch 2
